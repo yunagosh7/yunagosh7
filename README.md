@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <td width="50%">
 <h3 align="center">Food Application</h3>
 <div align="center">
-<a href=""/food-application" target="_blank"><img src="https://raw.githubusercontent.com/yunagosh7/readme_images/main/Screenshot_20230416-194303.png" width="350" alt="Food Application"></a>
+<a href="https://github.com/yunagosh7/food-application" target="_blank"><img src="https://raw.githubusercontent.com/yunagosh7/readme_images/main/Screenshot_20230416-194303.png" width="350" alt="Food Application"></a>
 <br>
 <br>
 <p>Esta aplicación permite a los usuarios buscar comidas y aprender a prepararlas, también puedes guardar tus favoritas para ver la receta y los ingredientes más tarde.</p>
