@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h3 align="center">Mobile Developer.</h3>
 
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black&labelColor=3DDC84)]()
+[![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&style=for-the-badge&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/-Kotlin-a62fef?logo=kotlin&style=for-the-badge&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-AE57FA?style=flat-square&logo=java&logoColor=white&labelColor=AE57FA)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=black&labelColor=3DDC84)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E)]()
-</br>
-[![MySQL](https://img.shields.io/badge/MySQL-279FDF?style=flat-square&logo=mysql&logoColor=white&labelColor=279FDF)]()
+[![Java](https://img.shields.io/badge/-Java-e26d01?logo=java&style=for-the-badge&logoColor=white)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)]()
+[![MySQL](https://img.shields.io/badge/MySQL-279FDF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=279FDF)]()
+[![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)]()
 </br>
 
 
