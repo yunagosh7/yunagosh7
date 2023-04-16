@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-279FDF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=279FDF)]()
 [![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)]()
 </br>
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)]()
+[![Linux Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=E95420)]()
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)]()
+</br>
 
 
 ## Proyectos realizados
