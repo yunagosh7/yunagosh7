@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Game List Application</h3>
 <div align="center">                                       
 <a href="https://github.com/yunagosh7/game-list-application" target="_blank"><img src="https://raw.githubusercontent.com/yunagosh7/game-list-application/main/readme_images/game_detail.png" width="350" alt="Game List Application"></a>
