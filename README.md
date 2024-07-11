@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋, soy Juan Cruz Vila</h1>
-<h3 align="center">Mobile Developer.</h3>
-
+<h1 align="center">Juan Cruz Vila</h1>
+<h3 align="center">Fullstack Developer.</h3>
+<!-- 
 
 [![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&style=for-the-badge&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/-Kotlin-a62fef?logo=kotlin&style=for-the-badge&logoColor=white)]()
@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
+<br> -->
