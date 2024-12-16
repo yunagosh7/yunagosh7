@@ -12,8 +12,7 @@
 ### 🚀 **About Me**
 - 💡 I'm passionate about **iOS Mobile Development**  
 - 📚 Currently learning **mobile development** and **expanding my backend knowledge technologies**  
-- ⚙️ My daily tools:  
-  `.js`, `.jsx`, `.ts`, `.tsx`, `.html`, `.css`, `.scss`, `.swift`  
+- ⚙️ My daily tools: `.js`, `.jsx`, `.ts`, `.tsx`, `.html`, `.css`, `.scss`, `.swift`  
 
 ---
 
