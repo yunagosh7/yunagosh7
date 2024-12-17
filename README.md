@@ -27,7 +27,7 @@
 <td width="50%">
 <h3 align="center">iOS Touristic Places App</h3>
 <div align="center">
-<a href="https://github.com/yunagosh7/food-application" target="_blank">
+<a href="https://github.com/yunagosh7/iOS-navigation-app" target="_blank">
 <img src="https://github.com/yunagosh7/iOS-navigation-app/blob/main/app-demo.gif?raw=true" width="300" alt="Food Application">
 
 
