@@ -21,7 +21,7 @@
 - 📧 **Email:** vilajuancruz7@gmail.com  
 
 ## 🛠️ What I'm currently working on:
-
+<--
 <table>
 <tr>
 <td width="50%">
@@ -43,4 +43,5 @@
 <a href="https://github.com/yunagosh7/game-list-application" target="_blank"><img src="https://raw.githubusercontent.com/yunagosh7/game-list-application/main/readme_images/game_detail.png" width="300" alt="Game List Application"></a>
 
 </div>                                                             
-</table>         
+</table>       
+-->
