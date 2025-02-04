@@ -20,4 +20,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-cruz-vila-arevalo-001111246/)  
 - 📧 **Email:** vilajuancruz7@gmail.com  
 
-## 🛠️ What I'm currently working on:
